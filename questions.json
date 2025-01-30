@@ -1,0 +1,264 @@
+{
+  "heading": "ANGLE RELATIONSHIPS",
+  "topics": [
+    {
+      "heading": "ANGLE RELATIONSHIPS",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "If two angles are supplementary and one angle is 49°, what is the other angle?",
+          "options": [
+            { "text": "135°" },
+            { "text": "131°" },
+            { "text": "155°" },
+            { "text": "121°" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Which of the following pairs are complementary?",
+          "options": [
+            { "text": "45° and 45°" },
+            { "text": "53° and 37°" },
+            { "text": "61° and 29°" },
+            { "text": "All of the above" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 3,
+          "question": "Which of the following statements is correct?<br><img width='60%' src='./assests/images/question/1.jpg'>",
+          "options": [
+            { "text": "2 and 3 have same measure" },
+            { "text": "3 and 6 are supplementary" },
+            { "text": "5 and 7 have same measure" },
+            { "text": "7 and 2 are supplementary" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "Which of the following sets of pairs are corresponding angles?<br><img width='60%' src='./assests/images/question/1.jpg'>",
+          "options": [
+            { "text": "1 and 5, 3 and 7, 2 and 6" },
+            { "text": "3 and 7, 5 and 6, 7 and 8" },
+            { "text": "4 and 5, 1 and 8, 2 and 3" },
+            { "text": "2 and 6, 1 and 4, 3 and 7" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "The pairs 3 and 5, 1 and 7 are examples of<br><img width='60%' src='./assests/images/question/2.jpg'>",
+          "options": [
+            { "text": "Corresponding angles" },
+            { "text": "Alternate angles" },
+            { "text": "Co-interior angles" },
+            { "text": "None of these" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "Which of the following set of pairs is an example of co-exterior angles?<br><img width='60%' src='./assests/images/question/3.jpg'>",
+          "options": [
+            { "text": "c and f, c and e" },
+            { "text": "e and d, h and b" },
+            { "text": "a and g, b and h" },
+            { "text": "All of these" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "In the given figure, ∠APO = 42° and ∠CQO = 38°. Find the value of ∠POQ.<br><img width='60%' src='./assests/images/question/4.jpg'>",
+          "options": [
+            { "text": "40°" },
+            { "text": "80°" },
+            { "text": "100°" },
+            { "text": "120°" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "Using the angle relationships, find the measure of z.<br><img width='60%' src='./assests/images/question/5.jpg'>",
+          "options": [
+            { "text": "64°" },
+            { "text": "65°" },
+            { "text": "66°" },
+            { "text": "67°" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 9,
+          "question": "If one angle of the co-exterior pair is shaded in the given figure, find the other?<br><img width='60%' src='./assests/images/question/6.jpg'>",
+          "options": [
+            { "text": "5" },
+            { "text": "6" },
+            { "text": "7" },
+            { "text": "8" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 10,
+          "question": "Find the measure of c and d in the given figure.<br><img width='60%' src='./assests/images/question/7.jpg'>",
+          "options": [
+            { "text": "115°, 115°" },
+            { "text": "135°, 115°" },
+            { "text": "115°, 110°" },
+            { "text": "105°, 115°" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "The values of c, d and e are<br><img width='60%' src='./assests/images/question/8.jpg'>",
+          "options": [
+            { "text": "50°, 100° and 60°" },
+            { "text": "60°, 120° and 50°" },
+            { "text": "60°, 120° and 60°" },
+            { "text": "50°, 120° and 60°" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "What is the measure of A and B in the given figure?<br><img width='60%' src='./assests/images/question/9.jpg'>",
+          "options": [
+            { "text": "50° and 130°" },
+            { "text": "45° and 125°" },
+            { "text": "55° and 105°" },
+            { "text": "None of these" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 13,
+          "question": "Two adjacent angles ∠XOY and ∠YOZ form a straight line. The measure of ∠YOZ is half the measure of ∠XOY. Also, ∠XOW = 30° is vertically opposite to ∠YOZ. What is the measure of ∠XOY?",
+          "options": [
+            { "text": "20°" },
+            { "text": "30°" },
+            { "text": "50°" },
+            { "text": "60°" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 14,
+          "question": "If a transversal intersects two parallel lines, and one of the alternate exterior angles measures 100°, what is the measure of its corresponding angle?",
+          "options": [
+            { "text": "65°" },
+            { "text": "100°" },
+            { "text": "120°" },
+            { "text": "180°" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 15,
+          "question": "A transversal intersects two parallel lines such that one of the angles in the co-interior pair measures x° and other measures 2x°. What is the value of x?",
+          "options": [
+            { "text": "60°" },
+            { "text": "70°" },
+            { "text": "90°" },
+            { "text": "120°" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 16,
+          "question": "If x=59°, what is y?<br><img width='60%' src='./assests/images/question/10.jpg'>",
+          "options": [
+            { "text": "110°" },
+            { "text": "120°" },
+            { "text": "100°" },
+            { "text": "118°" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 17,
+          "question": "What is the value of 1 and 2?<br><img width='60%' src='./assests/images/question/11.jpg'>",
+          "options": [
+            { "text": "120°, 60°" },
+            { "text": "130°, 50°" },
+            { "text": "120°, 55°" },
+            { "text": "110°, 40°" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "Two parallel lines are cut by a transversal. If the measure of one angle is 2x+10°and its vertically opposite angle is 3x−20°, what is the value of x?",
+          "options": [
+            { "text": "10°" },
+            { "text": "20°" },
+            { "text": "40°" },
+            { "text": "50°" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 19,
+          "question": "Determine the value of z.<br><img width='60%' src='./assests/images/question/12.jpg'>",
+          "options": [
+            { "text": "20°" },
+            { "text": "40°" },
+            { "text": "60°" },
+            { "text": "80°" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 20,
+          "question": "If the sum of co-interior angles formed at the intersection of the transversal with two parallel lines is 4a+60°, find the value of x.",
+          "options": [
+            { "text": "20°" },
+            { "text": "30°" },
+            { "text": "50°" },
+            { "text": "80°" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 21,
+          "question": "Measure of the shaded angle is<br><img width='60%' src='./assests/images/question/13.jpg'>",
+          "options": [
+            { "text": "70°" },
+            { "text": "75°" },
+            { "text": "85°" },
+            { "text": "90°" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 22,
+          "question": "In the given figure, lines XY and MN intersect at O. If ∠POY = 90° and a:b = 2:3, then ∠XON is equal to<br><img width='60%' src='./assests/images/question/14.jpg'>",
+          "options": [
+            { "text": "126°" },
+            { "text": "134°" },
+            { "text": "142°" },
+            { "text": "118°" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 23,
+          "question": "What will be the angle, measured clockwise, from the hour hand to the minute hand at 6:10 AM?",
+          "options": [
+            { "text": "125°" },
+            { "text": "135°" },
+            { "text": "140°" },
+            { "text": "145°" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    }
+  ]
+}
